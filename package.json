@@ -1,6 +1,6 @@
 {
-  "name": "rauchg-blog",
-  "description": "rauchg.com (blog)",
+  "name": "secops.space",
+  "description": "Starter site for secops.space",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "load-script": "^1.0.0",
