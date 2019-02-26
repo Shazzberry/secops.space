@@ -13,7 +13,6 @@
   "bin": "server.js",
   "scripts": {
     "dev": "next",
-    "build": "next build",
-    "start": "NODE_ENV=production node server"
+    "now-build": "next build"
   }
 }
