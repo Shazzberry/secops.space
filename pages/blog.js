@@ -8,7 +8,7 @@ export default () => (
     <Head>
       <title>Posts</title>
     </Head>
-    <div className="posts">
+    <div className="blogses">
       {
         posts.map(({ id, date, title }) => (
           <Article
