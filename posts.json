@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "id": "lorem-ipsum",
+      "id": "hello-world",
       "date": "February 26, 2019",
-      "title": "Lorem Impsum"
+      "title": "Hello, World!"
     }
   ]
 }
