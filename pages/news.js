@@ -1,19 +1,19 @@
 import Page from '../layouts/main'
-import { posts } from '../posts'
+import { news } from '../posts'
 import Article from '../components/post/article'
 import Head from 'next/head'
 
 export default () => (
   <Page>
     <Head>
-      <title>Posts</title>
+      <title>News</title>
     </Head>
-    <div className="blogses">
+    <div className="newses">
       {
-        posts.map(({ id, date, title }) => (
+        news.map(({ id, date, title }) => (
           <Article
             id={id}
-            source="blog"
+            source="news"
             date={date}
             title={title}
           />

@@ -9,7 +9,7 @@ export default () => (
   <Post>
     <Head><title>Hello, World!</title></Head>
     <Title>Hello, World!</Title>
-    <Meta date="February 26, 2019" />
+    <Meta date="February 28, 2019" />
 
     <P>We struck out on our own.</P>
 

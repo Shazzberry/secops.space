@@ -2,8 +2,15 @@
   "posts": [
     {
       "id": "hello-world",
-      "date": "February 26, 2019",
+      "date": "February 28, 2019",
       "title": "Hello, World!"
+    }
+  ],
+  "news": [
+    {
+      "id": "ctf-soft-open",
+      "date": "February 28, 2019",
+      "title": "Announcing the Soft Open of our new CTF, Hosted by L0k1 and Suser"
     }
   ]
 }
