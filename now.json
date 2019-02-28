@@ -3,6 +3,7 @@
   "name": "secops.spaceblog",
   "builds": [
     { "src": "next.config.js", "use": "@now/next" }
-  ]
+  ],
+  "alias": ["blog.secops.space"]
 }
 
