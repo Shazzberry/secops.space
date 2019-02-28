@@ -2,8 +2,15 @@
   "posts": [
     {
       "id": "hello-world",
-      "date": "February 26, 2019",
+      "date": "February 28, 2019",
       "title": "Hello, World!"
+    }
+  ],
+  "news": [
+    {
+      "id": "news-filler",
+      "date": "February 28, 2019",
+      "title": "News Filler"
     }
   ]
 }
