@@ -18,7 +18,7 @@ export default () => (
 	      <P> More filler text</P>
 
 	      <h1>Staff</h1>
-	      <P>Founders<P>
+	      <P>Founders</P>
       </div>
     </div>
 
