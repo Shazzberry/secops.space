@@ -10,7 +10,14 @@ export default () => (
 
     <div className="home">
       <div className="main">
-        <h1>Secops.Space</h1>
+	      <h1>Who We Are</h1>
+	      <P>Formerly part of 0x00sec, we are a community of information security professionals, amateurs, and enthusiasts.</P>
+
+	      <h1>Governance</h1>
+	      <P> More filler text</P>
+
+	      <h1>Staff</h1>
+	      <P>Founders<P>
       </div>
     </div>
 
