@@ -11,11 +11,6 @@ export default () => (
     <div className="home">
       <div className="main">
         <h1>Secops.Space</h1>
-        <nav>
-          <Link prefetch href="/blog"><a>Blog</a></Link>
-          <Link prefetch href="/news"><a>News</a></Link>
-	  <Link prefecth href="/about"><a>About</a></Link>
-        </nav>
       </div>
     </div>
 
