@@ -1,5 +1,6 @@
 import Page from '../layouts/main'
 import P from '../components/post/paragraph'
+import Title from '../components/post/title'
 import Link from 'next/link'
 import Head from 'next/head'
 
@@ -11,13 +12,13 @@ export default () => (
 
     <div className="home">
       <div className="main">
-    	     <title>Who We Are</title>
+    	     <Title>Who We Are</Title>
 	      <P>Formerly part of 0x00sec, we are a community of information security professionals, amateurs, and enthusiasts.</P>
 
-	     <title>Governance</title>
+	     <Title>Governance</Title>
 	      <P> More filler text</P>
 
-	     <title>Staff</title>
+	     <Title>Staff</Title>
 	      <P>Founders</P>
       </div>
     </div>
