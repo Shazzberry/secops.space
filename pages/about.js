@@ -1,5 +1,5 @@
 import Page from '../layouts/main'
-import P from '../../components/post/paragraph'
+import P from '../components/post/paragraph'
 import Link from 'next/link'
 import Head from 'next/head'
 
