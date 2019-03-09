@@ -11,13 +11,13 @@ export default () => (
 
     <div className="home">
       <div className="main">
-    	     <Title>Who We Are</Title>
+    	     <title>Who We Are</title>
 	      <P>Formerly part of 0x00sec, we are a community of information security professionals, amateurs, and enthusiasts.</P>
 
-	      <Title>Governance</Title>
+	     <title>Governance</title>
 	      <P> More filler text</P>
 
-	      <Title>Staff</Title>
+	     <title>Staff</title>
 	      <P>Founders</P>
       </div>
     </div>
